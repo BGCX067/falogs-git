@@ -1,0 +1,44 @@
+<style type="text/css">
+
+.info {
+	background-color: #CAFFB0;
+	border: 1px dotted #CCC;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	padding: 5px;
+	margin: 5px;
+}
+
+.debug {
+	background-color: #D4E5FF;
+	border: 1px dotted #CCC;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	padding: 5px;
+	margin: 5px;
+}
+
+.warning {
+	background-color: #FFF9C5;
+	border: 1px dotted #CCC;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	padding: 5px;
+	margin: 5px;
+}
+
+.error {
+	background-color: #FFD2C7;
+	border: 1px dotted #CCC;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	padding: 5px;
+	margin: 5px;
+}
+
+
+</style>
